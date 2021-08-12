@@ -6,7 +6,7 @@
 | ---------- | ----------- | ----------- |
 | Alert Solutions | *.drhinternet.net | ip4:216.118.105.4 ip4:216.118.105.5 |
 | Attendance on Demand | *.attendanceondemand.com | ip4:152.160.49.6 ip4:205.145.130.165 ip4:216.234.123.86 |
-| Constant Contact | *.constantcontact.com | spf.constantcontact.com |
+| Constant Contact | *.constantcontact.com | include:spf.constantcontact.com |
 | Emma |  | v=spf1 include:e2ma.net -all |
 | Google | *.google.com | include:_spf.google.com |
 | Harris Fund Accounting |  | ip4:64.26.181.227 |
