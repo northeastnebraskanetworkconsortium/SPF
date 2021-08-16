@@ -14,6 +14,7 @@
 | Infinite Campus	|  | include:mg.infinitecampus.org |
 | KnowBe4 | *.knowbe4.com | include:_spf.psm.knowbe4.com |
 | Mailchimp	|  | include:servers.mcsv.net |
+| Mail Gun | *.mailgun.com | include:_spf.mailgun.org |
 | SchoolMessenger | *.schoolmessenger.com | include:customerspf.schoolmessenger.com |
 | Sendgrid (used by Apptegy, et. al.) |  | include:sendgrid.net |
 | Software Unlimited SAS Accounting | *.wizmoworks.com | ip4:97.65.91.0/24 ip4:207.250.170.0/26 ip4:207.250.245.64/26 |
